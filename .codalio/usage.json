@@ -61,17 +61,33 @@
         "run_id": null,
         "recorded_at": "2026-07-13T20:02:14.434042+00:00"
       }
+    ],
+    "ui-integration": [
+      {
+        "cost_usd": 10.383017,
+        "model": "gemini/gemini-3.5-flash",
+        "input_tokens": 34207047,
+        "output_tokens": 89068,
+        "cache_read_tokens": 30910493,
+        "cache_write_tokens": 0,
+        "reasoning_tokens": 63668,
+        "context_window": 1048576,
+        "cache_hit_percent": 90.36,
+        "total_tokens": 34296115,
+        "run_id": null,
+        "recorded_at": "2026-07-13T23:25:45.362580+00:00"
+      }
     ]
   },
   "total": {
-    "cost_usd": 2.881876,
-    "input_tokens": 6473216,
-    "output_tokens": 16719,
-    "cache_read_tokens": 5702880,
+    "cost_usd": 13.264893,
+    "input_tokens": 40680263,
+    "output_tokens": 105787,
+    "cache_read_tokens": 36613373,
     "cache_write_tokens": 0,
-    "reasoning_tokens": 3908,
-    "total_tokens": 6489935,
-    "cache_hit_percent": 88.1
+    "reasoning_tokens": 67576,
+    "total_tokens": 40786050,
+    "cache_hit_percent": 90.0
   },
-  "updated_at": "2026-07-13T20:02:14.434056+00:00"
+  "updated_at": "2026-07-13T23:25:45.362616+00:00"
 }
